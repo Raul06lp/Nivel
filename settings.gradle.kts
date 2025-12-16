@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Nivel"
 include(":app")
- 
+include(":todolist")
